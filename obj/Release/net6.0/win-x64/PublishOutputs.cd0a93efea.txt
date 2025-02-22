@@ -225,9 +225,11 @@
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/mscorrc.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/msquic.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/ucrtbase.dll
+/workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/GlobalHotKey.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/NAudio.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/NAudio.Asio.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/NAudio.Core.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/NAudio.Midi.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/NAudio.Wasapi.dll
 /workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/NAudio.WinMM.dll
+/workspaces/TypeVol/bin/Release/net6.0/win-x64/publish/NHotkey.dll

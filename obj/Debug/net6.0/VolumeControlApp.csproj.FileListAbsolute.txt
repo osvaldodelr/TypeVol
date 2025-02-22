@@ -21,3 +21,5 @@
 /workspaces/TypeVol/obj/Debug/net6.0/VolumeControlApp.pdb
 /workspaces/TypeVol/obj/Debug/net6.0/VolumeControlApp.genruntimeconfig.cache
 /workspaces/TypeVol/obj/Debug/net6.0/ref/VolumeControlApp.dll
+/workspaces/TypeVol/bin/Debug/net6.0/GlobalHotKey.dll
+/workspaces/TypeVol/bin/Debug/net6.0/NHotkey.dll

@@ -10,6 +10,8 @@
       "VolumeControlApp/1.0.0": {
         "dependencies": {
           "NAudio": "2.2.1",
+          "NHotkey": "3.0.0",
+          "GlobalHotKey": "1.1.0",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "6.0.36"
         },
         "runtime": {
@@ -853,6 +855,14 @@
           }
         }
       },
+      "GlobalHotKey/1.1.0": {
+        "runtime": {
+          "lib/GlobalHotKey.dll": {
+            "assemblyVersion": "1.1.0.0",
+            "fileVersion": "1.1.0.0"
+          }
+        }
+      },
       "Microsoft.NETCore.Platforms/3.1.0": {},
       "Microsoft.Win32.Registry/4.7.0": {
         "dependencies": {
@@ -929,6 +939,14 @@
           }
         }
       },
+      "NHotkey/3.0.0": {
+        "runtime": {
+          "lib/net462/NHotkey.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
       "System.Security.AccessControl/4.7.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.1.0",
@@ -948,6 +966,13 @@
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
+    },
+    "GlobalHotKey/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KkEHhyM+sSh27kF1d3YlfpXdYlkfu17XCiI3WfYy1cn65y3loR7f+GMkMwHTgf0xSyS3QdXTKCRfVLzb7jgJFQ==",
+      "path": "globalhotkey/1.1.0",
+      "hashPath": "globalhotkey.1.1.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/3.1.0": {
       "type": "package",
@@ -1004,6 +1029,13 @@
       "sha512": "sha512-xFHRFwH4x6aq3IxRbewvO33ugJRvZFEOfO62i7uQJRUNW2cnu6BeBTHUS0JD5KBucZbHZaYqxQG8dwZ47ezQuQ==",
       "path": "naudio.winmm/2.2.1",
       "hashPath": "naudio.winmm.2.2.1.nupkg.sha512"
+    },
+    "NHotkey/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IEghs0QqWsQYH0uUmvIl0Ye6RaebWRh38eB6ToOkDnQucTYRGFOgtig0gSxlwCszTilYFz3n1ZuY762x+kDR3A==",
+      "path": "nhotkey/3.0.0",
+      "hashPath": "nhotkey.3.0.0.nupkg.sha512"
     },
     "System.Security.AccessControl/4.7.0": {
       "type": "package",

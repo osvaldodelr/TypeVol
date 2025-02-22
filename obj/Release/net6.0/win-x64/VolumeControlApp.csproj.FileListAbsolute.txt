@@ -243,3 +243,5 @@
 /workspaces/TypeVol/obj/Release/net6.0/win-x64/VolumeControlApp.pdb
 /workspaces/TypeVol/obj/Release/net6.0/win-x64/VolumeControlApp.genruntimeconfig.cache
 /workspaces/TypeVol/obj/Release/net6.0/win-x64/ref/VolumeControlApp.dll
+/workspaces/TypeVol/bin/Release/net6.0/win-x64/GlobalHotKey.dll
+/workspaces/TypeVol/bin/Release/net6.0/win-x64/NHotkey.dll
